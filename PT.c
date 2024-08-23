@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main() {
-    float a = 2.0;  // Ví dụ a = 2
-    float b = 4.0;  // Ví dụ b = 4
-    float c = 10.0; // Ví dụ c = 10
+    float a = 2.0; 
+    float b = 4.0;  
+    float c = 10.0;
     float x;
     if (a != 0) {
         x = (c - b) / a;
